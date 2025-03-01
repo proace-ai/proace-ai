@@ -1,6 +1,5 @@
 # S. Pratham  
-
-![Profile Views](https://komarev.com/ghpvc/?username=prathamofficial&label=Profile+Views&color=blue&style=plastic)  
+![Visitor Count](https://profile-counter.glitch.me/procae-ai/count.svg)
 
 🚀 **AI Developer | Prompt Engineer | Tech Entrepreneur**  
 
