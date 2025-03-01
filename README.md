@@ -42,9 +42,9 @@ I specialize in **AI chatbot development, AI-powered customer care solutions, an
 ## 📊 **GitHub Stats & Activity**  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prathamofficial&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=proace-ai&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
   <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamofficial&theme=radical" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=proace-ai&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
