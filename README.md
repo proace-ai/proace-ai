@@ -43,6 +43,7 @@ I specialize in **AI chatbot development, AI-powered customer care solutions, an
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=prathamofficial&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamofficial&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -50,11 +51,7 @@ I specialize in **AI chatbot development, AI-powered customer care solutions, an
 
 ## 📫 **Let's Connect!**  
 
-📩 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/spratham](https://linkedin.com/in/spratham)  
-🐦 **Twitter:** [twitter.com/spratham](https://twitter.com/spratham)  
-🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
-
----
-
-This version is more engaging with **badges, GitHub stats, and dynamic elements**. Let me know if you want any further tweaks! 🚀
+📩 **Email:** [s-pratham@outlook.com](mailto:s-pratham@outlook.com)  
+🔗 **LinkedIn:** [linkedin.com](https://linkedin.com/in/prathams711)  
+🐦 **Twitter:** [twitter.com](https://twitter.com/aceai)  
+🌐 **Website:** [prathams.com](https://dinoco711.github.io/prathams-portfolio)  
