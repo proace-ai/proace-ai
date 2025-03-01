@@ -6,8 +6,8 @@
 I'm an **AI enthusiast, builder, and problem solver**, working at the intersection of **Artificial Intelligence, Human Psychology, and Business Automation**.  
 
 I specialize in **AI chatbot development, AI-powered customer care solutions, and prompt engineering**. Currently, I'm building:  
-- **[Nexobotics](https://yourwebsite.com)** → AI automation & chatbot development agency  
-- **[FINN](https://yourwebsite.com)** → A next-gen AI prompt optimization assistant  
+- **[Nexobotics](https://nexobotics.vercel.app)** → AI automation & chatbot development agency  
+- **[FINN](https://nexobotics.vercel.app)** → A next-gen AI prompt optimization assistant  
 
 💡 My mission? **Redefining the way businesses interact with AI.**  
 
@@ -15,11 +15,10 @@ I specialize in **AI chatbot development, AI-powered customer care solutions, an
 
 ## 🛠 **Tech Stack & Skills**  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![Gemini](https://img.shields.io/badge/Gemini-412991?style=for-the-badge&logo=google&logoColor=white)  
 ![Groq](https://img.shields.io/badge/Groq-FF5733?style=for-the-badge)  
 
 📌 **Areas of Expertise:**  
